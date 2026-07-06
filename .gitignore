@@ -1,0 +1,10 @@
+# JMeter output/noise
+*.jtl
+*.log
+jmeter.log
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
